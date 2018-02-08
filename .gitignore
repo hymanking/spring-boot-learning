@@ -16,7 +16,9 @@ buildNumber.properties
 *.log  
   
 # About IntelliJ  
-*.iml  
+*.iml
+*.iws
+*.ipr
 /.idea/  
 /out/  
   
